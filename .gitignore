@@ -1,0 +1,27 @@
+# Data files (too large for GitHub)
+*.csv
+*.parquet
+data/
+dataset/
+
+# Model files
+*.pkl
+*.joblib
+*.model
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# Environment
+.env
+venv/
+env/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Submission files
+submission*.csv
